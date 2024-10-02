@@ -122,4 +122,4 @@ IP : 10.5.4.9
 ![dns](https://github.com/user-attachments/assets/6f60bda0-5e5e-4aaa-af48-eae48c20bb4e)
 
 
-출처 : [출처](https://github.com/100chun/Coding_Log) ( 100chun 님의 로깅 )
+출처 : [윤서짱 로깅](https://github.com/100chun/Coding_Log)
